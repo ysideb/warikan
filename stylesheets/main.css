@@ -1,0 +1,35 @@
+#main_content_wrap {
+  background: #ffffff;
+}
+
+img.app_icon {
+    width:96px;
+    border:none;
+    position:absolute;
+    top:20px;
+    left:-110px;
+    box-shadow:0 0 0px #FFFFFF;
+}
+
+img.appstore_link {
+    width:180px;
+    border: none;
+    box-shadow:none;
+}
+
+img.android_link {
+    top: 0px;
+    width:180px;
+    border: none;
+    box-shadow:none;
+}
+
+img.ss {
+    width:320px;
+    left:450px;
+    top:-100px;
+    box-shadow:0 0 5px #555555;
+    max-width: none;
+    position:absolute;
+    background-color:#ffffff;
+}
